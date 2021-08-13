@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Share Extension" type="AppleAppExtensionRunConfiguration" factoryName="AppleAppExtension" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Voomer" TARGET_NAME="Voomer" CONFIG_NAME="Debug" SCHEME_NAME="Share Extension" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="true" APP_EXTENSION_TARGET="Share Extension" EXTENSION_BUNDLE_ID="com.gikabu.voomer.share-extension" EXTENSION_TYPE_ID="com.apple.share-services">
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <embedded_app_extension_list>
+      <app_extension BUNDLE_ID="com.gikabu.voomer.notification-service-extension" EXTENSION_TYPE_ID="com.apple.usernotifications.service" />
+      <app_extension BUNDLE_ID="com.gikabu.voomer.share-extension" EXTENSION_TYPE_ID="com.apple.share-services" />
+    </embedded_app_extension_list>
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
