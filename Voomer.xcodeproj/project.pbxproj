@@ -20,7 +20,6 @@
 		1752DE0626C71EBB00BA4BCF /* ViewModels in Frameworks */ = {isa = PBXBuildFile; productRef = D04F9E8D259E9C950081B0C9 /* ViewModels */; };
 		1752DE0726C71EBB00BA4BCF /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = D04F34BB25E42ADC00714251 /* SDWebImage */; };
 		1752DE0826C71EBB00BA4BCF /* BlurHash in Frameworks */ = {isa = PBXBuildFile; productRef = D0D4301325F067D600BE5504 /* BlurHash */; };
-		1752DE0C26C7215700BA4BCF /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1752DE0B26C7215700BA4BCF /* File.swift */; };
 		17AC7A9F26C3F77E00DABFA2 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AC7A9E26C3F77E00DABFA2 /* MessagesViewController.swift */; };
 		17AC7AA326C3F98C00DABFA2 /* ChatListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17AC7AA226C3F98C00DABFA2 /* ChatListView.swift */; };
 		D0030982250C6C8500EACB32 /* URL+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0030981250C6C8500EACB32 /* URL+Extensions.swift */; };
@@ -283,7 +282,6 @@
 /* Begin PBXFileReference section */
 		1752DDF126C5440B00BA4BCF /* AccountSetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountSetupView.swift; sourceTree = "<group>"; };
 		1752DDF426C5504700BA4BCF /* AuthClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthClient.swift; sourceTree = "<group>"; };
-		1752DE0B26C7215700BA4BCF /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		17AC7A9E26C3F77E00DABFA2 /* MessagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
 		17AC7AA226C3F98C00DABFA2 /* ChatListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatListView.swift; sourceTree = "<group>"; };
 		2805F2DF26044E8900670835 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -558,7 +556,6 @@
 			isa = PBXGroup;
 			children = (
 				17AC7AA226C3F98C00DABFA2 /* ChatListView.swift */,
-				1752DE0B26C7215700BA4BCF /* File.swift */,
 			);
 			path = Chat;
 			sourceTree = "<group>";
@@ -1159,7 +1156,6 @@
 				D07EC7CF25B13921006DF726 /* PickerEmoji+Extensions.swift in Sources */,
 				D00702292555E51200F38136 /* ConversationTableViewCell.swift in Sources */,
 				D021A5F625C34538008A0C0D /* IdentitiesViewController.swift in Sources */,
-				1752DE0C26C7215700BA4BCF /* File.swift in Sources */,
 				D07EC7DC25B13DBB006DF726 /* EmojiCollectionViewCell.swift in Sources */,
 				D0C7D49C24F7616A001EBDBB /* RootView.swift in Sources */,
 				D0F0B126251A90F400942152 /* AccountTableViewCell.swift in Sources */,
