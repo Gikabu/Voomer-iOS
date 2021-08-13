@@ -10,16 +10,16 @@
   ],
   "defaultOptions" : {
     "targetForVariableExpansion" : {
-      "containerPath" : "container:Metatext.xcodeproj",
+      "containerPath" : "container:Voomer.xcodeproj",
       "identifier" : "D047FA8B24C3E21200AF17C5",
-      "name" : "Metatext"
+      "name" : "Voomer"
     }
   },
   "testTargets" : [
     {
       "enabled" : false,
       "target" : {
-        "containerPath" : "container:Metatext.xcodeproj",
+        "containerPath" : "container:Voomer.xcodeproj",
         "identifier" : "D0666A2024C677B400F3F04B",
         "name" : "Tests"
       }

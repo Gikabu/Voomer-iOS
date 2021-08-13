@@ -58,7 +58,7 @@ extension AuthenticationService {
 
 private extension AuthenticationService {
     struct OAuth {
-        static let clientName = "Metatext"
+        static let clientName = "Voomer"
         static let scopes = "read write follow push"
         static let codeCallbackQueryItemName = "code"
         static let authorizationCodeGrantType = "authorization_code"
