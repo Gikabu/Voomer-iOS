@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Voomer.iml" filepath="$PROJECT_DIR$/.idea/Voomer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Voomer-iOS.iml" filepath="$PROJECT_DIR$/.idea/Voomer-iOS.iml" />
     </modules>
   </component>
 </project>

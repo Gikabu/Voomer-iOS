@@ -2,29 +2,11 @@
   "object": {
     "pins": [
       {
-        "package": "Alamofire",
-        "repositoryURL": "https://github.com/Alamofire/Alamofire",
-        "state": {
-          "branch": null,
-          "revision": "f96b619bcb2383b43d898402283924b80e2c4bae",
-          "version": "5.4.3"
-        }
-      },
-      {
         "package": "Base16",
         "repositoryURL": "https://github.com/metabolist/base16.git",
         "state": {
           "branch": null,
           "revision": "050929070f6ebd996841a14096362df971ce9454",
-          "version": "1.0.0"
-        }
-      },
-      {
-        "package": "BlurHash",
-        "repositoryURL": "https://github.com/metabolist/blurhash.git",
-        "state": {
-          "branch": null,
-          "revision": "4d86c470d866b2d8989adc5a65b121221e40df54",
           "version": "1.0.0"
         }
       },
@@ -53,24 +35,6 @@
           "branch": "c326f8b",
           "revision": "c326f8bf11ada58f1958e11ae151802c78142f42",
           "version": null
-        }
-      },
-      {
-        "package": "SDWebImage",
-        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
-        "state": {
-          "branch": null,
-          "revision": "76dd4b49110b8624317fc128e7fa0d8a252018bc",
-          "version": "5.11.1"
-        }
-      },
-      {
-        "package": "SwiftyJSON",
-        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
-        "state": {
-          "branch": null,
-          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-          "version": "5.0.1"
         }
       }
     ]
